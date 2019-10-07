@@ -1,6 +1,11 @@
 # Portfolio
 A portfolio showcasing some of my projects that I completed.
+
+
 The CSS code is below:
+
+
+
 {
   margin: 0;
   padding: 0;
